@@ -1,6 +1,6 @@
 # 📊 Análise Comparativa de Desempenho Escolar no ENEM 2024
 
-![Comparacao das Médias](imagens/media_escolas.png)
+![Comparacao das Médias](dadosENEM2024/imagens/media_escolas.png)
 
 ## 📖 Sobre o Projeto
 
