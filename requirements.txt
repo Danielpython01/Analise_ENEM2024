@@ -1,0 +1,4 @@
+Pandas
+Matplotilib
+Numpy
+Jupyter
